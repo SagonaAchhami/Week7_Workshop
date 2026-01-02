@@ -43,6 +43,6 @@ if (isset($_POST['login'])) {
     Enter Password: <input type="password" name="password" required><br><br>
     <button type="submit" name="login">Login</button>
 </form>
-
+    <a href="register.php">Not registered? Register here</a>
 </body>
 </html>

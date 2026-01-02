@@ -25,4 +25,5 @@ if (isset($_POST['login'])) {
     Student ID: <input type="text" name="student_id" required><br><br>
     Password: <input type="password" name="password" required><br><br>
     <button name="login">Login</button>
+    <a href="register.php">Not registered? Register here</a>
 </form>
